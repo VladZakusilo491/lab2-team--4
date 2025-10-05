@@ -17,5 +17,5 @@
 ### 📂 Зміст репозиторію:
 - [Калькулятор](https://replit.com/@63945718d/Calculator#main.py
 )
-- [Калькулятор](https://replit.com/@hhxnfuncfu491/chatbotproject?v=1#main.
+- [Чат-бот](https://replit.com/@hhxnfuncfu491/chatbotproject?v=1#main.
 )
